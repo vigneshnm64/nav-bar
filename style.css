@@ -1,0 +1,101 @@
+* { 
+padding:0%;
+margin:0%;
+box-sizing: border-box;
+
+}
+
+.empty {
+    height: 100px;
+}
+
+.one{
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+    color:blue;
+    margin-top: 35px;
+
+}
+
+.p1 {
+font-size: 24px;
+font-family:'Courier New', Courier, monospace;
+color: #d61d1d;
+padding-bottom:0%;
+margin-bottom: 0%;
+
+
+}
+
+.p2 {
+font-size: 24px;
+font-family:'Courier New', Courier, monospace;
+color: #d61d1d;
+padding-bottom:0%;
+margin-bottom: 0%;
+
+
+}
+
+.p3 {
+font-size: 24px;
+font-family:'Courier New', Courier, monospace;
+color: #d61d1d;
+padding-bottom:0%;
+margin-bottom: 0%;
+
+
+}
+.p4 {
+font-size: 24px;
+font-family:'Courier New', Courier, monospace;
+color: #d61d1d;
+
+}
+.p5 {
+font-size: 24px;
+font-family:'Courier New', Courier, monospace;
+color: #d61d1d;
+
+}
+
+ul {
+    list-style-type : none;
+    margin : 0%;
+    padding:0%;
+    overflow : hidden;
+    background-color : #333;
+    position: fixed;
+    bottom : 0%;
+    width : 100%;
+    display: inline;
+
+    
+}
+
+
+li {
+    float : left;
+    
+}
+
+li a {
+    display : block;
+    color : white;
+    text-align : center;
+    padding: 18px 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color : #111;
+    
+}
+
+
+
+
+
+
+    
